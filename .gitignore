@@ -3,3 +3,4 @@ node_modules/
 tril.plist
 db/
 Makefile
+.DS_Store

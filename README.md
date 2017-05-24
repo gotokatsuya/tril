@@ -13,7 +13,7 @@ export TRIL_DB_PATH="/PATH/tril.db"
 $ yarn install
 ```
 
-## Lunch
+## Launch
 
 ```shell
 $ yarn start
