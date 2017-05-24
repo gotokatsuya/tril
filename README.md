@@ -2,6 +2,8 @@
 
 Streaming github trend repos on Slack.
 
+<img src="https://github.com/gotokatsuya/tril/blob/master/demo.png" alt="demo" width=600 height=400>
+
 ## Setup
 
 ```shell
